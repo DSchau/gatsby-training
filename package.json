@@ -1,0 +1,10 @@
+{
+  "name": "@gatsbyjs/training",
+  "private": true,
+  "version": "1.0.0",
+  "main": "n/a",
+  "license": "MIT",
+  "workspaces": [
+    "examples/*"
+  ]
+}
