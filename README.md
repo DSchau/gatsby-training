@@ -6,8 +6,9 @@ A suite of examples used to demonstrate some concepts for a Gatsby-led training 
 
 We use a yarn workspace (to minimize duplicate dependencies and quicker installation times!), so installation is as simple as:
 
-1. Clone this repo
-2. Run `yarn` in the root of the repo
+1. Fork this repo (so you can commit your changes!)
+1. Clone your fork
+2. Run `yarn` in the root of your repo
 
 All examples (in the `examples/` directory) will now have their dependencies installed. When working with an example, run `cd examples/{EXAMPLE_HERE}` and use commands as you would normally, e.g. `yarn start`, `yarn build`, etc.
 
