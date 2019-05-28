@@ -15,6 +15,7 @@ const IndexPage = ({ data }) => console.log(data) || (
     <h1>Fixed images, e.g. an avatar</h1>
     <Image className={avatar} fixed={data.man.childImageSharp.fixed} />
     <Image className={avatar} fixed={data.woman.childImageSharp.fixed} />
+    <em>Looking for more? Check out <a href="https://www.gatsbyjs.org/packages/gatsby-image/#fragments">using _other_ fragments (e.g. <code>GatsbyImageSharpFixed_tracedSVG</code>)</a> and see the effect(s)!</em>
   </Layout>
 )
 
