@@ -1,4 +1,4 @@
-# GatsbyJS Training
+# Gatsby | Training
 
 A suite of examples used to demonstrate some concepts for a Gatsby-led training session and introduction to Gatsby.
 
