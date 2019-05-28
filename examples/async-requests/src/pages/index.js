@@ -17,6 +17,7 @@ const IndexPage = () => {
     <Layout>
       <SEO title="Home" />
       <h1>Welcome to Crypto Central!</h1>
+      <em>Looking for more to do? How about dynamically generating pages based on the types of cryptocurrency?</em>
       <p><span role="img" aria-label="See below">👇</span> Coins below.</p>
       {currencies.length > 0 && (
         <ul>

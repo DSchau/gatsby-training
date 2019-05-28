@@ -23,6 +23,7 @@ const Index = () => (
         {` `}
         <Link to="/app/profile">your profile</Link>.
       </p>
+      <em>Looking for more to do? How about use this as a base, and implement your own authentication, e.g. using Auth0, Passport.js, etc.</em>
     </View>
   </Layout>
 )

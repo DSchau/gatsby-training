@@ -16,6 +16,7 @@ class BlogIndex extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <Bio />
+        <em>Looking for more to do? How about attempting to re-style the application, perhaps implementing a dark mode or using a CSS in JS library? (e.g. emotion, styled-components, etc.)</em>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
