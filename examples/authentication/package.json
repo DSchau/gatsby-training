@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-demo-simple-auth",
+  "name": "@gatsbyjs/authentication",
   "description": "Gatsby demo of simplified authentication flow.",
   "version": "1.0.0",
   "author": "Jason Lengstorf <jason@lengstorf.com>",

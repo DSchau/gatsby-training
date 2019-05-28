@@ -1,5 +1,5 @@
 {
-  "name": "@gatsbyjs/tutorial",
+  "name": "@gatbyjs/react-native-web",
   "private": true,
   "description": "A simplified bare-bones starter for Gatsby",
   "version": "0.1.0",
@@ -15,7 +15,8 @@
   "dependencies": {
     "gatsby": "^2.7.3",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-dom": "^16.8.6",
+    "react-native-web": "^0.11.4"
   },
   "devDependencies": {
     "prettier": "^1.17.1"

@@ -1,6 +1,6 @@
-# GatsbyJS Training - Left Field Labs
+# GatsbyJS Training
 
-A suite of examples used to demonstrate some concepts for the GatsbyJS-led training session for Left Field Labs.
+A suite of examples used to demonstrate some concepts for a Gatsby-led training session and introduction to Gatsby.
 
 ## Installation
 
@@ -25,3 +25,26 @@ Additionally, several examples to re-inforce concepts have been provided to stud
 - [React Native Web](./examples/react-native-web)
 
 ## Resources
+
+Want to learn more about Gatsby concepts? Our best resource is [our official documentation](https://gatsbyjs.org/docs/) but there are a number of other, great resources, as well.
+
+For instance:
+
+### Tutorials
+
+- [Building Apps with Gatsby](https://www.gatsbyjs.org/docs/building-apps-with-gatsby/)
+- [Official tutorial](https://www.gatsbyjs.org/tutorial/)
+- [Making a Site with User Authentication](https://www.gatsbyjs.org/tutorial/authentication-tutorial/)
+- [Gatsby E-Commerce Tutorial](https://www.gatsbyjs.org/tutorial/ecommerce-tutorial/)
+
+### Blog posts
+
+- [Behind the Scenes: What Makes Gatsby Great](https://www.gatsbyjs.org/blog/2019-04-02-behind-the-scenes-what-makes-gatsby-great/)
+    - A deep dive (15 minute read!) on all the performance optimizations and general philosophy that makes Gatsby such an appealing choice!
+- [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
+
+### Video Content
+
+- [Gatsby for Apps - Webinar](https://www.gatsbyjs.com/build-web-apps-webinar)
+    - Note: will need to register to watch the video!
+- [Head of Developer Relations @ Gatsby - Twitch (Jason Lengstorf)](https://www.twitch.tv/jlengstorf)
