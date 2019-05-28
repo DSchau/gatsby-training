@@ -24,6 +24,8 @@ Additionally, several examples to re-inforce concepts have been provided to stud
 - [Blog](./examples/blog)
 - [React Native Web](./examples/react-native-web)
 
+My advice would be to go through the tutorial, and then attempt to build out a proof of concept for something you're interested in (e.g. a Gatsby app with authentication, a Gatsby app with real-time data calls, etc.) and then we will revisit in several weeks with any outstanding questions or additional resources!
+
 ## Resources
 
 Want to learn more about Gatsby concepts? Our best resource is [our official documentation](https://gatsbyjs.org/docs/) but there are a number of other, great resources, as well.
